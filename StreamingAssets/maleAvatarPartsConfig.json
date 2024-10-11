@@ -1,0 +1,50 @@
+{
+  "AvatarParts": [
+   {
+      "Name": "SK_AvatarMaleTorso",
+      "AssetUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Tops/Long%20Sleeve/SK_BlazerM.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Tops/Short%20Sleeve/SK_GymTankTop.glb"
+      ],
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Tops/Long%20Sleeve/SK_BlazerM.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Tops/Short%20Sleeve/SK_GymTankTop.png"
+      ]
+    },
+    {
+      "Name": "SK_AvatarMaleLegs",
+      "AssetUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Bottoms/Pants/SK_CargoPantsM.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Bottoms/Shorts/SK_DenimShortsM.glb"
+      ],
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Bottoms/Pants/SK_CargoPantsM.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Bottoms/Shorts/SK_DenimShortsM.png"
+      ]
+    }
+    ,
+    {
+      "Name": "SK_AvatarMaleHead",
+      "AssetUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Hairstyles/SK_MaleHairstyleAfro.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Headwear/SK_BucketHatM.glb"
+      ],
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Hairstyles/SK_MaleHairstyleAfro.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Headwear/SK_BucketHatM.png"
+      ]
+    }
+    ,
+    {
+      "Name": "SK_AvatarMaleFeet",
+      "AssetUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Footwear/SK_Boots.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Footwear/SK_FlatsM.glb"
+      ],
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Footwear/SK_Boots.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Footwear/SK_FlatsM.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "AvatarParts": [
+   {
+      "Name": "SK_AvatarFemaleTorso",
+      "AssetUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Long%20Sleeve/SK_BlazerF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Short%20Sleeve/SK_CropTop.glb"
+      ],
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Long%20Sleeve/SK_BlazerF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Short%20Sleeve/SK_CropTop.png"
+      ]
+    },
+    {
+      "Name": "SK_AvatarFemaleLegs",
+      "AssetUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Pants/SK_CargoPantsF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Skirts/SK_DenimSkirt.glb"
+      ],
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Pants/SK_CargoPantsF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Skirts/SK_DenimSkirt.png"
+      ]
+    }
+    ,
+    {
+      "Name": "SK_AvatarFemaleHead",
+      "AssetUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Hairstyles/SK_FemaleHairstyleCurls.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Headwear/SK_BucketHatF.glb"
+      ],
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Hairstyles/SK_FemaleHairstyleCurls.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Headwear/SK_BucketHatF.png"
+      ]
+    }
+    ,
+    {
+      "Name": "SK_AvatarFemaleFeet",
+      "AssetUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_FlatsF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_HeelSandals.glb"
+      ],
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_FlatsF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_HeelSandals.png"
+      ]
+    }
+  ]
+}
