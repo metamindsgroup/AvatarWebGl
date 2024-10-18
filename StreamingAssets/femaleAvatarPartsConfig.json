@@ -4,46 +4,172 @@
       "Name": "SK_AvatarFemaleTorso",
       "AssetUrls": [
         "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Long%20Sleeve/SK_BlazerF.glb",
-        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Short%20Sleeve/SK_CropTop.glb"
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Long%20Sleeve/SK_HoodieF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Long%20Sleeve/SK_ShirtF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Long%20Sleeve/SK_SweaterF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Long%20Sleeve/SK_YogaTop.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Long%20Sleeve/SK_YogaTopTrim.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Short%20Sleeve/SK_CropTop.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Short%20Sleeve/SK_ShortCropTop.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Short%20Sleeve/SK_TankTopF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Short%20Sleeve/SK_TshirtBaggyF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Short%20Sleeve/SK_TshirtF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Short%20Sleeve/SK_TshirtWool.glb"
       ],
       "ImageUrls": [
         "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Long%20Sleeve/SK_BlazerF.png",
-        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Short%20Sleeve/SK_CropTop.png"
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Long%20Sleeve/SK_HoodieF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Long%20Sleeve/SK_ShirtF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Long%20Sleeve/SK_SweaterF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Long%20Sleeve/SK_YogaTop.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Long%20Sleeve/SK_YogaTopTrim.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Short%20Sleeve/SK_CropTop.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Short%20Sleeve/SK_ShortCropTop.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Short%20Sleeve/SK_TankTopF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Short%20Sleeve/SK_TshirtBaggyF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Short%20Sleeve/SK_TshirtF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Tops/Short%20Sleeve/SK_TshirtWool.png"
       ]
     },
     {
       "Name": "SK_AvatarFemaleLegs",
       "AssetUrls": [
         "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Pants/SK_CargoPantsF.glb",
-        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Skirts/SK_DenimSkirt.glb"
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Pants/SK_JeansBaggyF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Pants/SK_JeansF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Pants/SK_SportPantsF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Pants/SK_YogaPants.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Pants/SK_YogaPantsWaist.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Shorts/SK_CargoShortsF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Shorts/SK_DenimMiniShorts.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Shorts/SK_DenimShortsF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Shorts/SK_LongShortsF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Shorts/SK_MiniShortsF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Shorts/SK_ShortsF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Skirts/SK_DenimSkirt.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Skirts/SK_PencilSkirt.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Skirts/SK_PleatedSkirt.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Skirts/SK_PocketSkirt.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Skirts/SK_Skirt.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Skirts/SK_SlitSkirt.glb"
+
       ],
       "ImageUrls": [
         "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Pants/SK_CargoPantsF.png",
-        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Skirts/SK_DenimSkirt.png"
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Pants/SK_JeansBaggyF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Pants/SK_JeansF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Pants/SK_SportPantsF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Pants/SK_YogaPants.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Pants/SK_YogaPantsWaist.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Shorts/SK_CargoShortsF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Shorts/SK_DenimMiniShorts.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Shorts/SK_DenimShortsF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Shorts/SK_LongShortsF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Shorts/SK_MiniShortsF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Shorts/SK_ShortsF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Skirts/SK_DenimSkirt.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Skirts/SK_PencilSkirt.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Skirts/SK_PleatedSkirt.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Skirts/SK_PocketSkirt.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Skirts/SK_Skirt.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Bottoms/Skirts/SK_SlitSkirt.png"
       ]
-    }
-    ,
-    {
-      "Name": "SK_AvatarFemaleHead",
-      "AssetUrls": [
-        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Hairstyles/SK_FemaleHairstyleCurls.glb",
-        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Headwear/SK_BucketHatF.glb"
-      ],
-      "ImageUrls": [
-        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Hairstyles/SK_FemaleHairstyleCurls.png",
-        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Headwear/SK_BucketHatF.png"
-      ]
-    }
-    ,
+    },
     {
       "Name": "SK_AvatarFemaleFeet",
       "AssetUrls": [
         "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_FlatsF.glb",
-        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_HeelSandals.glb"
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_HeelSandals.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_HighBoots.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_RunningShoesF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_SandalsF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_Slippers.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_Stilettos.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_TrackShoesF.glb"
       ],
       "ImageUrls": [
         "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_FlatsF.png",
-        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_HeelSandals.png"
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_HeelSandals.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_HighBoots.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_RunningShoesF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_SandalsF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_Slippers.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_Stilettos.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Footwear/SK_TrackShoesF.png"
+      ]
+    },
+    {
+      "Name": "SK_AvatarFemaleHeadwear",
+      "AssetUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Hairstyles/SK_FemaleHairstyleCurls.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Hairstyles/SK_FemaleHairstyleCurly.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Hairstyles/SK_FemaleHairstyleDoubleBraids.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Hairstyles/SK_FemaleHairstyleLongCurly.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Hairstyles/SK_FemaleHairstyleShortBob.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Hairstyles/SK_FemaleHairstyleSimpleBun.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Headwear/SK_BucketHatF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Headwear/SK_CapF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Headwear/SK_FishingHatF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Headwear/SK_FlatcapF.glb"
+      ],
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Hairstyles/SK_FemaleHairstyleCurls.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Hairstyles/SK_FemaleHairstyleCurly.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Hairstyles/SK_FemaleHairstyleDoubleBraids.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Hairstyles/SK_FemaleHairstyleLongCurly.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Hairstyles/SK_FemaleHairstyleShortBob.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Hairstyles/SK_FemaleHairstyleSimpleBun.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Headwear/SK_BucketHatF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Headwear/SK_CapF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Headwear/SK_FishingHatF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Headwear/SK_FlatcapF.png"
+      ]
+    },
+    {
+      "Name": "SK_AvatarFemaleNeckwear",
+      "AssetUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/SK_DogTagF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/SK_PearlNecklaceF.glb"
+      ],
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/SK_DogTagF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/SK_PearlNecklaceF.png"
+      ]
+    },
+    {
+      "Name": "SK_AvatarFemaleWristwear",
+      "AssetUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/SK_BlackLeatherWatchF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/SK_BlueLeatherWatchF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/SK_BraceletF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/SK_MetalWatchF.glb"
+      ],
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/SK_BlackLeatherWatchF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/SK_BlueLeatherWatchF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/SK_BraceletF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/SK_MetalWatchF.png"
+      ]
+    },
+    {
+      "Name": "SK_AvatarFemaleEyewear",
+      "AssetUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/Glasses/SK_AviatorGlassesF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/Glasses/SK_BakeliteGlassesF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/Glasses/SK_OvalGlassesF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/Glasses/SK_RBGlassesF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/Glasses/SK_RoundGlassesF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/Glasses/SK_SynthGlassesF.glb",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/Glasses/SK_WideGlassesF.glb"
+      ],
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/Glasses/SK_AviatorGlassesF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/Glasses/SK_BakeliteGlassesF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/Glasses/SK_OvalGlassesF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/Glasses/SK_RBGlassesF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/Glasses/SK_RoundGlassesF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/Glasses/SK_SynthGlassesF.png",
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Female/Accessories/Glasses/SK_WideGlassesF.png"
       ]
     }
   ]

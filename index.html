@@ -6,6 +6,16 @@
     <title>Unity WebGL Player | Avatar cutomization widget</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
+    <script>
+      // This function will be triggered by a button to send data to Unity
+      function SendTokenToUnity() {
+        if (typeof mainUnityInstance !== 'undefined') {
+          mainUnityInstance.SendMessage('BackendController', 'ReceiveTokenFromWeb', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjIiLCJlbWFpbCI6ImdhbmRhbDkwQGdtYWlsLmNvbSIsImdpdmVuX25hbWUiOiJNb3N0YWZhIiwiZmFtaWx5X25hbWUiOiJBaG1lZCIsImp0aSI6IjgzMjlkYjczLTEwZTgtNDFlNS1iODg5LWRhNzM4ZTU5Yzc4NyIsIm5iZiI6MTcyOTE4ODk1MywiZXhwIjoxNzI5Mjc1MzUzLCJpc3MiOiJodHRwczovL21ldGFtaW5kc2FwaTIwMjQwODI3MTA0NTIyLmF6dXJld2Vic2l0ZXMubmV0IiwiYXVkIjoiaHR0cHM6Ly9tZXRhbWluZHNhcGkyMDI0MDgyNzEwNDUyMi5henVyZXdlYnNpdGVzLm5ldCJ9.mFNwV73RHzsZE1-aLpod36utClGKAIAtZV3DPHHg9G8');
+        } else {
+          console.log('Unity instance is not loaded yet.');
+        }
+      }
+    </script>
   </head>
   <body>
     <div id="unity-container" class="unity-desktop">
@@ -31,6 +41,7 @@
       var progressBarFull = document.querySelector("#unity-progress-bar-full");
       var fullscreenButton = document.querySelector("#unity-fullscreen-button");
       var warningBanner = document.querySelector("#unity-warning");
+      let mainUnityInstance;
 
       // Shows a temporary message banner/ribbon for a few seconds, or
       // a permanent error message on top of the canvas if type=='error'.
@@ -106,6 +117,7 @@
         createUnityInstance(canvas, config, (progress) => {
           progressBarFull.style.width = 100 * progress + "%";
               }).then((unityInstance) => {
+                mainUnityInstance = unityInstance;
                 loadingBar.style.display = "none";
                 fullscreenButton.onclick = () => {
                   unityInstance.SetFullscreen(1);
