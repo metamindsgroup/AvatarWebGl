@@ -109,12 +109,10 @@
     {
       "Name": "SK_AvatarMaleNeckwear",
       "AssetUrls": [
-        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Accessories/SK_DogTagM.glb",
-        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Accessories/SK_PearlNecklaceM.glb"
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Accessories/SK_DogTagM.glb"
       ],
       "ImageUrls": [
-        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Accessories/SK_DogTagM.png",
-        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Accessories/SK_PearlNecklaceM.png"
+        "https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Accessories/SK_DogTagM.png"
       ]
     },
     {
