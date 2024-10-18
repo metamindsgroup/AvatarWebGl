@@ -10,7 +10,7 @@
       // This function will be triggered by a button to send data to Unity
       function SendTokenToUnity() {
         if (typeof mainUnityInstance !== 'undefined') {
-          mainUnityInstance.SendMessage('BackendController', 'ReceiveTokenFromWeb', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjIiLCJlbWFpbCI6ImdhbmRhbDkwQGdtYWlsLmNvbSIsImdpdmVuX25hbWUiOiJNb3N0YWZhIiwiZmFtaWx5X25hbWUiOiJBaG1lZCIsImp0aSI6IjgzMjlkYjczLTEwZTgtNDFlNS1iODg5LWRhNzM4ZTU5Yzc4NyIsIm5iZiI6MTcyOTE4ODk1MywiZXhwIjoxNzI5Mjc1MzUzLCJpc3MiOiJodHRwczovL21ldGFtaW5kc2FwaTIwMjQwODI3MTA0NTIyLmF6dXJld2Vic2l0ZXMubmV0IiwiYXVkIjoiaHR0cHM6Ly9tZXRhbWluZHNhcGkyMDI0MDgyNzEwNDUyMi5henVyZXdlYnNpdGVzLm5ldCJ9.mFNwV73RHzsZE1-aLpod36utClGKAIAtZV3DPHHg9G8');
+          mainUnityInstance.SendMessage('BackendController', 'ReceiveTokenFromWeb', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjciLCJlbWFpbCI6Im1haG1vdWRAbWV0YW1pbmRzLmdyb3VwIiwiZ2l2ZW5fbmFtZSI6Ik1haG1vdWQiLCJmYW1pbHlfbmFtZSI6Ikhhc3NhbiIsImp0aSI6IjQwODdmY2NhLTk5YWQtNGY2OS1hZGZmLWYzOGQ4MzgyMTkyMiIsIm5iZiI6MTcyOTI3NTk4MCwiZXhwIjoxNzI5MzYyMzgwLCJpc3MiOiJodHRwczovL21ldGFtaW5kc2FwaTIwMjQwODI3MTA0NTIyLmF6dXJld2Vic2l0ZXMubmV0IiwiYXVkIjoiaHR0cHM6Ly9tZXRhbWluZHNhcGkyMDI0MDgyNzEwNDUyMi5henVyZXdlYnNpdGVzLm5ldCJ9.19tobsZZkO2L0jSoZmSGwWTUK9L-zvK6E-nzQv1oqYM');
         } else {
           console.log('Unity instance is not loaded yet.');
         }
